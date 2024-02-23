@@ -24,4 +24,5 @@ udacity_project_01_airbnb_seattle.ipynb -> Jupyter Notebook with the code
 
 Please put all files in one folder and open the notebook.
 
-Thanks to the udacity team for the data science learning program.
+Thanks to the udacity team for the data science learning program. 
+Also big thanks to stackoverflow helping me with the quadrant chart.
