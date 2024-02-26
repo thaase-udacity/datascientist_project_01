@@ -22,6 +22,8 @@ review.csv -> review per reviewer and listing
 
 udacity_project_01_airbnb_seattle.ipynb -> Jupyter Notebook with the code
 
+You can also check out my blogpost @ Medium: https://medium.com/@torsten.haase/sleepless-in-seattle-this-guide-will-make-you-book-a-flight-right-away-46fb75d5bbf0
+
 Please put all files in one folder and open the notebook.
 
 Thanks to the udacity team for the data science learning program. 
